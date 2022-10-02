@@ -1,0 +1,12 @@
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.AssemblyReference.cache
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.AssemblyInfoInputs.cache
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.AssemblyInfo.cs
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Infra.deps.json
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Infra.dll
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Infra.pdb
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.dll
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\refint\GroceryStoreApi.Infra.dll
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.pdb
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\ref\GroceryStoreApi.Infra.dll

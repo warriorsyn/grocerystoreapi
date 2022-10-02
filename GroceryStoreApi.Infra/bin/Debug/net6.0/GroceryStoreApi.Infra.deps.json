@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GroceryStoreApi.Infra/1.0.0": {
+        "runtime": {
+          "GroceryStoreApi.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GroceryStoreApi.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
