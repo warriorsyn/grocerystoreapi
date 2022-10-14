@@ -10,3 +10,6 @@ C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\refint\GroceryStoreApi.Infra.dll
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.pdb
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\ref\GroceryStoreApi.Infra.dll
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Domain.dll
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Domain.pdb
+C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.CopyComplete
