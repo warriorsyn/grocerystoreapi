@@ -10,3 +10,15 @@ C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Domain\obj\Debug\net6.0\refint\GroceryStoreApi.Domain.dll
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.pdb
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Domain\obj\Debug\net6.0\ref\GroceryStoreApi.Domain.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\refint\GroceryStoreApi.Domain.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.pdb
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\bin\Debug\net6.0\GroceryStoreApi.Domain.deps.json
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\bin\Debug\net6.0\GroceryStoreApi.Domain.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\bin\Debug\net6.0\GroceryStoreApi.Domain.pdb
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.csproj.AssemblyReference.cache
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.AssemblyInfoInputs.cache
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.AssemblyInfo.cs
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\GroceryStoreApi.Domain.csproj.CoreCompileInputs.cache
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Domain\obj\Debug\net6.0\ref\GroceryStoreApi.Domain.dll

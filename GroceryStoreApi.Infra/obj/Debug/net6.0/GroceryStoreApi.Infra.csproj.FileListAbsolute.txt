@@ -13,3 +13,18 @@ C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Domain.dll
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Domain.pdb
 C:\Users\joaov\Documents\faculdade\engenharia_de_software\dotnet\GroceryStoreApi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.CopyComplete
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\refint\GroceryStoreApi.Infra.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.pdb
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Infra.deps.json
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Infra.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Infra.pdb
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Domain.dll
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\bin\Debug\net6.0\GroceryStoreApi.Domain.pdb
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.AssemblyReference.cache
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.AssemblyInfoInputs.cache
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.AssemblyInfo.cs
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.CoreCompileInputs.cache
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\GroceryStoreApi.Infra.csproj.CopyComplete
+S:\Visual Studio Roxo\Mercearia Itabaiana\grocerystoreapi\GroceryStoreApi.Infra\obj\Debug\net6.0\ref\GroceryStoreApi.Infra.dll
