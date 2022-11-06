@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fZ8lIuoSBTAHQa20ylejNhVTH/5BmmI4bFqoiWG307Q4JBhzwqTnYee7T3AOMuod33RmZG51xazsPg3coaXNbw==",
+  "dgSpecHash": "Y0mNsRqrkIOQMT+DeCdw11qqHlVi81+tFAM4yZOhvZLrTdQ3BNWJbBbdA/KxSAgFnMZjeTYzTgHhz6KrBoxk7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\GroceryStoreApi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj",
+  "projectFilePath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",

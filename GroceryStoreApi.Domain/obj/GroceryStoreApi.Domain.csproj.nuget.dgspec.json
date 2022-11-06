@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\GroceryStoreApi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {}
+    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\GroceryStoreApi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {
+    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\GroceryStoreApi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
         "projectName": "GroceryStoreApi.Domain",
-        "projectPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\GroceryStoreApi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
+        "projectPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
         "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\GroceryStoreApi\\GroceryStoreApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
