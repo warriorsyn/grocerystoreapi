@@ -20,6 +20,7 @@ namespace GroceryStoreApi.Infra.Data
             options.UseNpgsql(Configuration.GetConnectionString("GroceryApiDatabase"), b => b.MigrationsAssembly("GroceryStoreApi.Api"));
         }
 
-        public DbSet<TestDomain> Users { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
     }
 }
