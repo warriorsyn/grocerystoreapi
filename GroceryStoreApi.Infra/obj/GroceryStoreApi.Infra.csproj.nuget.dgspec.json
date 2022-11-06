@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj": {}
+    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj": {}
   },
   "projects": {
-    "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {
+    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
         "projectName": "GroceryStoreApi.Domain",
-        "projectPath": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Domain\\obj\\",
+        "projectPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "S:\\Visual Studio\\components\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,21 +62,20 @@
         }
       }
     },
-    "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj": {
+    "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj",
         "projectName": "GroceryStoreApi.Infra",
-        "projectPath": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Infra\\obj\\",
+        "projectPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Infra\\GroceryStoreApi.Infra.csproj",
+        "packagesPath": "C:\\Users\\joaov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "S:\\Visual Studio\\components\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\joaov\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,15 +83,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {
-                "projectPath": "S:\\Visual Studio Roxo\\Mercearia Itabaiana\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj"
+              "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\joaov\\Documents\\faculdade\\engenharia_de_software\\dotnet\\grocerystoreapi\\GroceryStoreApi.Domain\\GroceryStoreApi.Domain.csproj"
               }
             }
           }
