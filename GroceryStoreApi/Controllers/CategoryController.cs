@@ -2,6 +2,7 @@
 using GroceryStoreApi.Infra.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.VisualBasic;
 
 namespace GroceryStoreApi.Api.Controllers
 {
@@ -58,6 +59,22 @@ namespace GroceryStoreApi.Api.Controllers
             }
             
             _context.Entry(cat).CurrentValues.SetValues(category);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            var cat = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+
+            if (cat == null)
+            {
+                return NotFound();
+            }
+
+            _context.Remove(cat);
             await _context.SaveChangesAsync();
 
             return NoContent();
