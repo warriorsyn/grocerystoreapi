@@ -24,5 +24,18 @@ namespace GroceryStoreApi.Api.Controllers
 
             return await categories.ToListAsync();
         }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<CategoryDto>> GetById(int id)
+        {
+            var category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            return new CategoryDto(category);
+        }
     }
 }
