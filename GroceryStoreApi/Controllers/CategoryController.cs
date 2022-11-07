@@ -47,5 +47,20 @@ namespace GroceryStoreApi.Api.Controllers
 
             return NoContent();
         }
+
+        [HttpPut("{id}")]
+        public async Task<ActionResult> Update(int id, [FromBody] CategoryDto category) {
+            var cat = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+
+            if (cat == null)
+            {
+                return NotFound();
+            }
+            
+            _context.Entry(cat).CurrentValues.SetValues(category);
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
     }
 }
