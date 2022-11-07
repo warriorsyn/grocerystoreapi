@@ -37,5 +37,15 @@ namespace GroceryStoreApi.Api.Controllers
 
             return new CategoryDto(category);
         }
+
+        [HttpPost]
+        public async Task<ActionResult> Store([FromBody] CategoryDto category)
+        {
+            await _context.Categories.AddAsync(new Domain.Category { Description = category.Description, Name = category.Name });
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
     }
 }
