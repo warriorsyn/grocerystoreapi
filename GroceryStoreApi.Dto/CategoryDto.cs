@@ -4,9 +4,7 @@ namespace GroceryStoreApi.Dto
 {
     public class CategoryDto
     {
-        public CategoryDto()
-        {
-        }
+        public CategoryDto() { }
 
         public CategoryDto(Category category)
         {
