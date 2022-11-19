@@ -14,6 +14,14 @@ namespace GroceryStoreApi.Dto
             Password = user.Password;
         }
 
+        public UserDto(long id, string name, string email, bool? isAdmin = false)
+        {
+            Id = id;
+            Name = name;
+            Email = email;
+            IsAdmin = isAdmin.GetValueOrDefault();
+        }
+
         public long Id { get; set; }
         public string Name { get; set; }
         public string? Email { get; set; }
