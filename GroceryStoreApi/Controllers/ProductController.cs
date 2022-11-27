@@ -8,7 +8,7 @@ namespace GroceryStoreApi.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ProductController: ControllerBase
+    public class ProductController : ControllerBase
     {
         private readonly DataContext _context;
 
@@ -21,7 +21,7 @@ namespace GroceryStoreApi.Api.Controllers
         public async Task<IEnumerable<ProductDto>> Index()
         {
             var products = await _context.Products.ToListAsync();
-              
+
             return products.Select(item => new ProductDto(item));
         }
 
@@ -73,9 +73,10 @@ namespace GroceryStoreApi.Api.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult> Delete(int id) {
+        public async Task<ActionResult> Delete(int id)
+        {
             var product = await _context.Products.FirstOrDefaultAsync(c => c.Id == id);
-            
+
             if (product == null)
             {
                 return NotFound();
@@ -89,6 +90,3 @@ namespace GroceryStoreApi.Api.Controllers
         }
     }
 }
-
-
-

@@ -1,3 +1,5 @@
+using System.ComponentModel;
+
 namespace GroceryStoreApi.Domain
 {
     public class User

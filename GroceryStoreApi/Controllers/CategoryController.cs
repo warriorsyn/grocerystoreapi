@@ -2,7 +2,6 @@
 using GroceryStoreApi.Infra.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.VisualBasic;
 
 namespace GroceryStoreApi.Api.Controllers
 {
@@ -21,7 +20,7 @@ namespace GroceryStoreApi.Api.Controllers
         [HttpGet]
         public async Task<IEnumerable<CategoryDto>> Index()
         {
-            var categories = _context.Categories.Select(c => new CategoryDto { Id = c.Id, Description = c.Description, Name = c.Name });
+            var categories = _context.Categories.Select(c => new CategoryDto { Id = c.Id, Name = c.Name, Description = c.Description, });
 
             return await categories.ToListAsync();
         }
@@ -58,6 +57,9 @@ namespace GroceryStoreApi.Api.Controllers
             {
                 return NotFound();
             }
+
+            cat.Name = category.Name;
+            cat.Description = category.Description;
 
             _context.Entry(cat).CurrentValues.SetValues(category);
             await _context.SaveChangesAsync();
