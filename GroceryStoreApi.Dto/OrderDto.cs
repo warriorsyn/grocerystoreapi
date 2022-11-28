@@ -5,8 +5,6 @@ namespace GroceryStoreApi.Dto
 {
     public class OrderDto
     {
-        // Attributes / Fields
-
         [Key]
         [Description("Demonstrates the order unique identification (ID) in the system")]
         [Range(1, long.MaxValue, ErrorMessage = "Invalid order")]
@@ -15,6 +13,7 @@ namespace GroceryStoreApi.Dto
         public UserDto User { get; set; }
 
         public ProductDto Product { get; set; }
+        public int Quantity { get; set; }
 
         [Description("Demonstrates a flag field to check if an order has been closed or not")]
         [DefaultValue(false)]

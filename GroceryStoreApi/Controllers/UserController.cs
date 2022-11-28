@@ -1,3 +1,4 @@
+using GroceryStoreApi.Api.Authentication;
 using GroceryStoreApi.Dto;
 using GroceryStoreApi.Infra.Data;
 using Microsoft.AspNetCore.Mvc;
