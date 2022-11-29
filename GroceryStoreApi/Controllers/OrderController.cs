@@ -53,7 +53,7 @@ namespace GroceryStoreApi.Api.Controllers
                 .Include(i => i.User)
                 .Include(i => i.Product)
                 .Where(w => w.UserId == userId)
-                .OrderBy(w => !w.IsClosed)
+                .OrderBy(w => w.IsClosed)
                 .ToListAsync();
 
 
@@ -66,6 +66,30 @@ namespace GroceryStoreApi.Api.Controllers
                 Product = new ProductDto(item.Product),
                 Quantity = item.Quantity,
             });
+        }
+
+        [HttpPatch("{id}")]
+        public async Task<ActionResult> CloseOrder(long id)
+        {
+            var order = await _dataContext.Orders.Where(o => o.Id == id).FirstOrDefaultAsync();
+
+            if (order == null)
+            {
+                return BadRequest("Could not find order");
+            }
+
+            if (order.IsClosed)
+            {
+                return BadRequest("This order is already closed");
+            }
+
+            order.IsClosed = true;
+
+            _dataContext.Update(order);
+            await _dataContext.SaveChangesAsync();
+        
+
+            return NoContent();
         }
 
         [HttpPost("{userId}/{productId}")]

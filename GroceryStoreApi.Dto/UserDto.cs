@@ -33,10 +33,6 @@ namespace GroceryStoreApi.Dto
         }
 
         // Attributes / Fields
-
-        [Key]
-        [Description("Demonstrates the user unique identification (ID) in the system")]
-        [Range(1, long.MaxValue, ErrorMessage = "Invalid user")]
         public long Id { get; set; }
 
         [Required(ErrorMessage = $"{nameof(Name)} field is required")]
@@ -53,7 +49,7 @@ namespace GroceryStoreApi.Dto
 
         [Required(ErrorMessage = $"{nameof(Password)} field is required")]
         [Description("Demonstrates a password field for user authentication and security purposes")]
-        [MinLength(6, ErrorMessage = "This field must contains a length between 6 and 18 characters")]
+        [MinLength(1, ErrorMessage = "This field must contains a length between 6 and 18 characters")]
         [MaxLength(18, ErrorMessage = "This field must contains a length between 6 and 18 characters")]
         public string? Password { get; set; }
 
